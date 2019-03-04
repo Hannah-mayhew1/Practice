@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc4bc974-eed7-422e-aa32-bc58455c934d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/hannahmayhew/Greeting/HowManyRabbits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/hannahmayhew/Greeting/HowManyRabbits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hannahmayhew/Greeting/HowManyRabbits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hannahmayhew/Greeting/HowManyRabbits.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc4bc974-eed7-422e-aa32-bc58455c934d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/Primetime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="131">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -84,11 +80,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/YouveBeenFramed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="54">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/YourGuessIsAsGoodAsMine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,13 +125,14 @@
         <option value="$PROJECT_DIR$/src/hannahmayhew/Greeting/SeeingDouble.java" />
         <option value="$PROJECT_DIR$/src/hannahmayhew/Greeting/HowManyRabbits.java" />
         <option value="$PROJECT_DIR$/src/hannahmayhew/Greeting/YouveBeenFramed.java" />
+        <option value="$PROJECT_DIR$/src/hannahmayhew/Greeting/YourGuessIsAsGoodAsMine.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
+    <option name="x" value="525" />
     <option name="y" value="31" />
-    <option name="width" value="1411" />
+    <option name="width" value="900" />
     <option name="height" value="782" />
   </component>
   <component name="ProjectView">
@@ -173,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.YouveBeenFramed">
+  <component name="RunManager" selected="Application.Primetime">
     <configuration name="HowManyRabbits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hannahmayhew.Greeting.HowManyRabbits" />
       <module name="Practice" />
@@ -200,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightBackAtYou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hannahmayhew.Greeting.RightBackAtYou" />
+    <configuration name="SeeingDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hannahmayhew.Greeting.SeeingDouble" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -213,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeeingDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hannahmayhew.Greeting.SeeingDouble" />
+    <configuration name="YourGuessIsAsGoodAsMine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hannahmayhew.Greeting.YourGuessIsAsGoodAsMine" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -240,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Primetime" />
-      <item itemvalue="Application.RightBackAtYou" />
       <item itemvalue="Application.SeeingDouble" />
       <item itemvalue="Application.HowManyRabbits" />
       <item itemvalue="Application.YouveBeenFramed" />
+      <item itemvalue="Application.YourGuessIsAsGoodAsMine" />
+      <item itemvalue="Application.Primetime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Primetime" />
+        <item itemvalue="Application.YourGuessIsAsGoodAsMine" />
         <item itemvalue="Application.YouveBeenFramed" />
         <item itemvalue="Application.HowManyRabbits" />
         <item itemvalue="Application.SeeingDouble" />
-        <item itemvalue="Application.RightBackAtYou" />
-        <item itemvalue="Application.Primetime" />
       </list>
     </recent_temporary>
   </component>
@@ -266,21 +275,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551434192719</updated>
-      <workItem from="1551434193980" duration="47759000" />
+      <workItem from="1551434193980" duration="50048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47759000" />
+    <option name="totallyTimeSpent" value="50048000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="31" width="1411" height="782" extended-state="0" />
+    <frame x="525" y="31" width="900" height="782" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.03360117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2937063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -299,12 +308,24 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.021913806" />
+      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.034965035" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hannahmayhew/Greeting/YourGuessIsAsGoodAsMine.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -388,6 +409,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/YouveBeenFramed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/YourGuessIsAsGoodAsMine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/SeeingDouble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -397,15 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/Primetime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hannahmayhew/Greeting/YouveBeenFramed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="131">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
